@@ -9,3 +9,5 @@ Then if you wanted to push up the current position of your local HEAD
 ```Bash
 git push origin HEAD --force
 ```
+
+git config push default thingy simple.
