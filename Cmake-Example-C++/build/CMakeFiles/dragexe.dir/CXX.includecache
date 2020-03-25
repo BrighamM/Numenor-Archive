@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Dragon.h
+string
+-
+
+/home/brigham/Desktop/Advanced Algorithms/practice/src/Dragon.cpp
+Dragon.h
+-
+
+/home/brigham/Desktop/Advanced Algorithms/practice/src/main.cpp
+iostream
+-
+Dragon.h
+/home/brigham/Desktop/Advanced Algorithms/practice/src/Dragon.h
+

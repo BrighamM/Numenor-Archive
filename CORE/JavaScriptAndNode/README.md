@@ -3,7 +3,7 @@ To install the node into the WSL(Linux)
 
     sudo apt-get install -y \
     git build-essential libtool \
-    pkg-config autotools-dev autoconf automake cmake \
+    pkg-config autotools-dev autoconf automake \
     uuid-dev libpcre3-dev libsodium-dev valgrind
 
 

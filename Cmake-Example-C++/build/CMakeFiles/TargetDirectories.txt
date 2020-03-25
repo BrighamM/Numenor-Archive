@@ -1,0 +1,3 @@
+/home/brigham/Desktop/Advanced Algorithms/practice/build/CMakeFiles/edit_cache.dir
+/home/brigham/Desktop/Advanced Algorithms/practice/build/CMakeFiles/rebuild_cache.dir
+/home/brigham/Desktop/Advanced Algorithms/practice/build/CMakeFiles/dragexe.dir

@@ -1,0 +1,21 @@
+This command is executed from the build directory. 
+
+$ rm -r ../build/* && cmake .. && make && ./dragexe 
+
+AND DON'T FORGET TO USE SUDO!!!!
+
+This site helped with getting cmake working.
+
+http://derekmolloy.ie/hello-world-introductions-to-cmake/
+
+
+
+Also you could have made a cmake file with the following:
+
+
+
+***************BEGIN CMAKE FILE*********************
+cmake_minimum_required(VERSION 3.5.1)
+project (hello)
+add_executable(exename hw.cpp)
+****************END CMAKE FILE**********************
