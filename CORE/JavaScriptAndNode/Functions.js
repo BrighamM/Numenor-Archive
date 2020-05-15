@@ -30,7 +30,7 @@ var fibo = function fibonacci() {
 
 
 // IMMEDIATELY INVOKED FUNCTION EXPRESSIONS
-!function() { // YUCK!!! ANY UNARY OPERATOR WILL DO!!! ~,-,+
+!function() { // YUCK!!! ANY UNARY OPERATOR WILL DO!!! ~,-,+, ()- approprietly closed parens
     console.log("Hello from IIFE!");
 }();
 // Shows the alert "Hello from IIFE!"
